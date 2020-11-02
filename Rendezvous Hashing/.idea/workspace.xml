@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65b9e659-ae96-46ef-836e-5bb66993d64a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1aq3WU45VArt5BcbBZdkgQxmcd4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65b9e659-ae96-46ef-836e-5bb66993d64a" name="Default Changelist" comment="" />
+      <created>1587449328049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587449328049</updated>
+      <workItem from="1587449330736" duration="517000" />
+      <workItem from="1587450910964" duration="647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="192" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587449392138">
+      <screen x="0" y="23" width="1680" height="946" />
+    </state>
+    <state x="454" y="192" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.946@0.23.1680.946" timestamp="1587449392138" />
+    <state x="517" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1587450911167">
+      <screen x="0" y="23" width="1680" height="946" />
+    </state>
+    <state x="517" y="328" key="com.intellij.ide.util.TipDialog/0.23.1680.946@0.23.1680.946" timestamp="1587450911167" />
+  </component>
+</project>
